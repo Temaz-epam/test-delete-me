@@ -1,0 +1,7 @@
+GitHub MCP smoke test - created 2026-10-20.
+
+This file verifies:
+- Repository creation (Repository creation permission)
+- File commit (Contents read/write permission)
+
+Safe to delete.
